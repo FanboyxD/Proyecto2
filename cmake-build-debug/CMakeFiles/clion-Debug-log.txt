@@ -1,0 +1,5 @@
+/opt/CLion/CLion-2024.2.1/clion-2024.2.1/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/opt/CLion/CLion-2024.2.1/clion-2024.2.1/bin/ninja/linux/x64/ninja -G Ninja -S "/home/iquick/Documents/Proyectos C/Proyecto2" -B "/home/iquick/Documents/Proyectos C/Proyecto2/cmake-build-debug"
+-- Found SFML 2.6.1 in /usr/lib/x86_64-linux-gnu/cmake/SFML
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/iquick/Documents/Proyectos C/Proyecto2/cmake-build-debug
